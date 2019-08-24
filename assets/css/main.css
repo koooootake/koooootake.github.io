@@ -256,7 +256,7 @@ input, select, textarea {
 	}
 
 	article a {
-		color: #FD9082;
+		color: #3CA683;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -3435,7 +3435,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#banner {
-				padding: 7em 0 8.25em 0 ;
+				padding: 7em 0 7em 0 ;
 				background-color: #ADADAD;
 				background-size: auto, cover;
 				background-position: center, center;
@@ -3588,7 +3588,7 @@ input, select, textarea {
 
 	.wrapper {
 		background-color: #ADADAD;
-		margin: 6.5em 0;
+		margin: 2em 0;
 		position: relative;
 	}
 
