@@ -2981,12 +2981,12 @@ input, select, textarea {
 			border-radius: 8px;
 			margin: 1.5em 1.5em 1.5em 0;
 			width: calc(50% - 1.5em);
-			font-family: Avenir, Helvetica, Arial, sans-serif;
 		}
 
 		.features article p {
 			font-size: 0.85em;
 			margin-bottom: 0.1em;
+			font-family: Avenir, Helvetica, Arial, sans-serif;
 		}
 
 		.features article h5 {
